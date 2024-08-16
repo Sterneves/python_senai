@@ -1,4 +1,4 @@
-# Curso de python
+# Curso de python VESPERTINO
 
 curso de capacitação python ofertado pelo programa inovatech em parceria com o SENAI.
 
