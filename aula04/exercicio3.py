@@ -1,0 +1,5 @@
+nome = str(input('Digite o seu nome '))
+idade = int(input('Digite a sua idade '))
+comida_preferida = str(input('Digite a sua comida preferida '))
+lugar = str(input('Onde você mora? '))
+print('O seu nome é ', nome , ', a sua idade é ', idade , ', a sua comida preferida é ', comida_preferida , ' e você mora em ', lugar)
